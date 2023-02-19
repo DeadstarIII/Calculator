@@ -1,7 +1,8 @@
 .button {
   background-color: var(--gunmetal);
   color: var(--almond);
-  border: none;
+  padding:10px;
   width:3vw;
   height:5vh;
+border-width: 1px;
 }
