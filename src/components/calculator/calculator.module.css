@@ -1,0 +1,20 @@
+.calculatorDiv {
+  height: 75vh;
+  width: 60vw;
+  background-color: var(--khaki);
+  /* display: flex; */
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 2vw;
+  margin-top: 10vh;
+}
+
+.calculatorHeading {
+  top: 2%;
+  position: -webkit-sticky;
+  position: sticky;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

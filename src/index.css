@@ -1,0 +1,21 @@
+body {
+  margin: 0 !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--black);
+  display: flex !important;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+}
+
+:root {
+  --black: #0a0908;
+  --gunmetal: #22333b;
+  --almond: #eae0d5;
+  --khaki: #c6ac8f;
+  --brown: #5e503f;
+}
